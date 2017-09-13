@@ -1,0 +1,12 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int temp,a,b;
+		system.out.println("enter the values:");
+		temp=a;
+		a=b;
+		temp=b;
+	}
+
+}
